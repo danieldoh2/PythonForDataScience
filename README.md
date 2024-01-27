@@ -1,6 +1,6 @@
 # PythonForDataScience
 
-Hello! This is my breakdown of common Python Data Science libraries such as numpy, pandas, seaborn, and matplotlib.
+Hello! This is my breakdown of common Python Data Science libraries such as numpy, pandas, seaborn, and matplotlib. I've also included two jupyter notebooks on common data cleaning practices. 
 
 Reading documentation can be frustrating and boring. If you're a visual learner like me who learns through seeing examples and short explanations, please see the attached files.
 
